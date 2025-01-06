@@ -1,5 +1,5 @@
 '''
-Multiprocessing approach to calculating all of the downstream flow lines. Please do not run this without talking to Ryan Hollins or Connor McMillan as there are precautions that should be taken
+Multiprocessing approach to calculating all of the downstream flow lines. Please note that you need AMPLE storage on your system to run this.
 '''
 
 import arcpy
