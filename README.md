@@ -6,6 +6,9 @@
  
 #### NOTICE: MITRE hereby grants express written permission to use, reproduce, distribute, modify, and otherwise leverage this software to the extent permitted by the licensed terms provided in the LICENSE.md file included with this project.
 
+#### ACKNOWLEDGEMENT
+
+The MITRE WaterSHEDS model was created in collaboration with the U.S. Geological Survey. Major thanks to Larry Barber and Brianna Williams from the USGS Water Mission Area - Proxies Project team for their invaluable input and suggestions in model development, application, and collaboration.
 
 ##
 
