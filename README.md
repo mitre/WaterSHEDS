@@ -103,7 +103,7 @@ The MITRE WaterSHEDS model was created in collaboration with the U.S. Geological
      -    Facilities of Interest (FOI) - 25 = 0.06 
      -    NPDES Permitted Facilities = 0.06 
      -    Firestations = 0.03
-     -    Oiland Gas Facilities = 0.03
+     -    Oil and Gas Facilities = 0.03
      -    Facilities of Interest (FOI) - 1 = 0.02
      
      
